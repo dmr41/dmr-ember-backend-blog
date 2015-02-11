@@ -6,6 +6,8 @@ gem 'rails', '4.2.0'
 # Use postgresql as the database for Active Record
 gem 'pg'
 
+gem 'rails_12factor'
+
 gem 'active_model_serializers', '~> 0.9.3'
 
 gem 'rack-cors', require: 'rack/cors'
